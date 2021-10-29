@@ -10,5 +10,4 @@ pub fn run(){
          println!("Hi {}, how are you?", name);
      }
 
-     println!("Command: {}", command);
 }
